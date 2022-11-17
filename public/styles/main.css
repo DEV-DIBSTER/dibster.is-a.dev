@@ -387,6 +387,10 @@ body {
   color: #76a43d;
 }
 
+.blue {
+  color: #4bb4de;
+}
+
 @media only screen and (max-device-width: 640px) {
   .profile {
     width: 300px;
