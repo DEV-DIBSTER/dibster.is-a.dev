@@ -6,7 +6,7 @@
   "author": "Domin",
   "license": "MIT",
   "scripts": {
-    "start": "npm install && tsc && node .",
+    "start": "npm install && node .",
     "build": "tsc",
     "test": "node ."
   },
@@ -15,8 +15,7 @@
     "@types/node": "^18.7.6",
     "@types/serve-favicon": "^2.5.3",
     "express": "^4.17.2",
-    "serve-favicon": "^2.5.0",
-    "typescript": "^4.7.4"
+    "serve-favicon": "^2.5.0"
   },
-  "keywords": []    
+  "keywords": []
 }
